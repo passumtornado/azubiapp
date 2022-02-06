@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Deploying first react application
+         Deploying first react app
         </p>
        
       </header>
